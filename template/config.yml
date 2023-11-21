@@ -1,12 +1,12 @@
 site:
-    title: "纸小墨官方博客"
-    subtitle: "构建只为纯粹书写的博客"
+    title: "【催泪、小丑】的博客"
+    subtitle: "每天给自己一个希望，试着不为明天而烦恼，不为昨天而叹息，只为今天更美好。"
     limit: 10
     theme: theme
     lang: zh-cn
-    url: "https://example.io/"
+    url: "https://blog.longkui.top/"
     comment: username
-    logo: "-/images/avatar.png"
+    logo: "-/images/avatar_long.jpg"
     config:
         CustomVar: "config 下是纸小墨的自定义变量，定义时建议使用正确大小写"
     # link: "{category}/{year}/{month}/{day}/{title}.html"
@@ -15,13 +15,13 @@ site:
 
 authors:
     me:
-        name: "纸小墨"
-        intro: "构建只为纯粹书写的博客"
-        avatar: "-/images/avatar.png"
+        name: "【催泪、小丑】"
+        intro: "每天给自己一个希望，试着不为明天而烦恼，不为昨天而叹息，只为今天更美好。"
+        avatar: "-/images/avatar_long.jpg"
 
 build:
     # output: "public"
-    port: 8000
+    port: 18000
     # These files are copied to the public folder when 'ink build' is used
     copy:
         - "source/images"

@@ -158,7 +158,7 @@ func Build() {
 			}
 			articleInfo := ArticleInfo{
 				DetailDate: article.Date,
-				Date:       article.Time.Format("2006-01-02"),
+				Date:       article.Time.Format("2006-01-02 15:04:05"),
 				Title:      article.Title,
 				Link:       article.Link,
 				Top:        article.Top,
@@ -224,7 +224,7 @@ func Build() {
 			articleValue := article.(Article)
 			articleInfos = append(articleInfos, ArticleInfo{
 				DetailDate: articleValue.Date,
-				Date:       articleValue.Time.Format("2006-01-02"),
+				Date:       articleValue.Time.Format("2006-01-02 15:04:05"),
 				Title:      articleValue.Title,
 				Link:       articleValue.Link,
 				Top:        articleValue.Top,

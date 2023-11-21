@@ -4,8 +4,11 @@ author: me
 
 ---
 
-## 纸小墨
+## 【催泪、小丑】
 
-构建只为纯粹书写的博客。
+每天给自己一个希望，试着不为明天而烦恼，不为昨天而叹息，只为今天更美好。
 
-[https://github.com/InkProject/ink](https://github.com/InkProject/ink)
+## 联系我
+  - Github: [https://github.com/longkui-clown](https://github.com/longkui-clown)
+  - QQ: `315202350`
+  - 邮箱: `longtime315202350@gmail.com`
